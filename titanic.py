@@ -5,7 +5,7 @@ import streamlit as smt
 from PIL import Image
 import matplotlib.pyplot as plt
 import seaborn as sns
-#from sklearn import datasets
+from sklearn import datasets
   
 # loading in the model to predict on the data
 smt.set_page_config(layout="wide")
