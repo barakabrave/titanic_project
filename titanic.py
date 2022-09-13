@@ -3,8 +3,8 @@ import numpy as np
 import pickle
 import streamlit as smt
 from PIL import Image
-#import matplotlib.pyplot as plt
-#import seaborn as sns
+import matplotlib.pyplot as plt
+import seaborn as sns
 from sklearn import datasets
   
 # loading in the model to predict on the data
